@@ -1,0 +1,217 @@
+/*<!--a {
+	text-decoration:none;
+	color:red;
+	background-color: #08239E;
+	font-size: 20px;
+	padding: 3px;
+	border: red thick solid;
+	
+}
+a:hover {
+	color: #08239E;
+	background-color:red;
+	font-size: 24px;
+	padding: 3px;
+	border: #08239E thick solid;
+}}-->*/
+* {
+	background-color:#828181;
+	
+}
+
+body {
+	margin-left:auto;
+	margin-right:auto;
+	width:1200px;
+}
+	
+	
+h1 {
+	color:white;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size:32px;
+}
+h2 {
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 24px
+	
+}
+p {
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 18px;	
+}
+#headerimage {
+	border: red thick solid; 
+}
+nav {
+	width:1200px;
+	hieght:150px;
+	border: #030091 thick solid;
+	background-color:red;
+	padding:4px;
+	margin:auto;
+}
+.nav {
+	
+	display:inline;
+	background-color:red;
+	width: 290px;
+	height: 140;
+	padding-left: 90px;
+	padding-right: 90px;
+}
+.navlink {
+	color:white;
+	text-decoration: none;
+	background-color:red;
+	font-size:24px;
+	
+	
+}
+.navlink:hover {
+	
+	color:#030091;
+	
+	
+}
+/*links in home page*/
+.intro {
+	text-decoration: none;
+	color: white;
+	background-color:#030091;
+}
+.intro:hover {
+	color:red;
+	background-color:#030091;
+}
+/* image on home page*/
+#history {
+	border: white medium solid;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+		
+}
+/* home page text */
+#hp {
+	background-color:#030091;
+	color:white;
+	border:red solid medium;
+	padding:8px;
+}
+/* welcome to halo history*/
+#welcome {
+	text-align:center;	
+}
+/* history info */
+.history {
+	color:white;
+	background-color: #030091;
+	border: red medium solid;
+	padding: 8px;
+	margin: 10px;
+	
+}
+.hh {
+	text-align:center;
+	
+	
+	
+}
+.link {
+	
+	text-decoration:none;
+	font-size:18px;
+	background-color:red;
+	padding:10px;
+	width:200px;
+	margin:200px;
+	height:150px;
+	
+	
+	
+}
+.playerslink {
+	color:white;
+	border: medium #030091 solid;
+	padding: 5px;
+	background-color:red;
+	margin: 20px;
+	text-decoration:none;
+	
+}
+.playerslink:hover {
+	border: white medium solid;
+	background-color:#030091;
+	color:red;
+
+}
+
+.playerimg {
+	border: red medium solid;	
+	margins: 5px;
+}
+
+	
+.players {
+	display:inline;
+}
+.trout {
+	color: white;
+	border: red medium solid;
+	background-color: #030091;
+	padding: 5px;	
+}
+.tim {
+	color: white;
+	border: red medium solid;
+	background-color: #030091;
+	padding: 5px;
+}
+
+.glaus {
+	color: white;
+	border: red medium solid;
+	background-color: #030091;
+	padding: 5px;
+}
+/*<!--fun facts link in the history page-->*/
+#button {
+		text-decoration: none;
+		color: white;
+		border: red thick solid;
+		background-color: #030091;
+		width: 300px;
+		height: 100px;
+		padding: 10px;
+		margin: 5px;
+		font-size: 18px;
+		
+}
+#button:hover {
+	color:red;
+	border: #030091 thick solid;
+	background-color:white;	
+	
+}
+.funfacts {
+	border:red medium solid;
+	
+}
+main {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+	
+
+
+footer {
+	border: #030091 thick solid;
+	padding: 4px;
+	background-color:red;
+	width:1200px;
+	color:white; 
+	font-size: 16px;
+	top-margins: 20px;
+}
